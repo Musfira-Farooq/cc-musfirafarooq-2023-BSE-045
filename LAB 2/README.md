@@ -7,53 +7,65 @@
 ---
 
 ## 🧾 Task 01: Create Private GitHub Repository
-![Task 01 – Create Private GitHub Repository](images/task01_create_repo.png)
+![Task 01 – Create Private GitHub Repository](images/repo_private.png)
 
 ---
 
 ## 🔐 Task 02: Connect Repository via SSH
-![Task 02 – SSH Keygen and Clone](images/task02_ssh_keygen_and_clone.png)
+![Task 02 – SSH Keygen and Clone](images/github_sshkey.png)
 
 ---
 
 ## 👩‍💻 Task 03: Configure Git Username and Email
-![Task 03 – Git Config User](images/task03_git_config_user.png)
+![Task 03 – Git Config User](images/git_identity.png)
+![Task 03 – Git Config List](images/git_config_list.png)
 
 ---
 
 ## 🗂️ Task 04: Explore the `.git` Folder
-![Task 04 – LS .git Folder](images/task04_ls_dot_git.png)
+![Task 04 – Git Folder](images/git_folder.png)
+![Task 04 – Delete Git Folder](images/delete_git.png)
 
 ---
 
 ## 🧱 Task 05: Local Repository Management
-![Task 05 – Git Init and Push](images/task05_git_init_and_push.png)
+![Task 05 – Git Init](images/git_init.png)
+![Task 05 – First Commit](images/first_commit.png)
+![Task 05 – First Push](images/first_push.png)
 
 ---
 
 ## 📄 Task 06: File Status & Staging
-![Task 06 – File Status Commit](images/task06_file_status_commit.png)
+![Task 06 – Commit Notes](images/commit_notes.png)
+![Task 06 – Notes Modified](images/notes modified.png)
 
 ---
 
 ## 🌿 Task 07 & 08: Branch Creation (GUI & Bash)
-![Task 07 – GUI Branch Creation](images/task07_gui_branch_creation.png)
-![Task 08 – Bash Branch Creation](images/task08_bash_branch_creation.png)
+![Task 07 – GUI Branch Creation](images/bugfix_branch_gui.png)
+![Task 08 – Bash Branch Creation](images/bugfix_branch_local.png)
 
 ---
 
 ## ⚙️ Task 09: Branching & Merging (Local Feature Development)
-![Task 09 – Feature Branch Commit](images/task09_feature_branch_commit.png)
+![Task 09 – Feature DB Branch](images/feature_db_branch.png)
+![Task 09 – Feature Commit](images/feature_commit.png)
+![Task 09 – Push Branches](images/push_branches.png)
 
 ---
 
 ## 🔄 Task 10: Pull Request and Branch Review (GitHub GUI)
-![Task 10 – PR Merge and Delete](images/task10_pr_merge_and_delete.png)
+![Task 10 – PR Creation](images/pr_creation.png)
+![Task 10 – PR Merge](images/pr_merge.png)
 
 ---
 
 ## 🧩 Task 11: Detailed Branch Strategy (Develop/Staging Simulation)
-![Task 11 – Branch Strategy Merge](images/task11_branch_strategy_merge.png)
+![Task 11 – Branch Create](images/branch_create.png)
+![Task 11 – Branch Strategy](images/branch_strategy.png)
+![Task 11 – Branch Merges](images/branch_merges.png)
+![Task 11 – Branch Delete](images/branch_delete.png)
+![Task 11 – Final Merge](images/final_merge.png)
 
 ---
 
@@ -63,8 +75,9 @@
 ![PR Assigned Reviewer](images/pr_assigned_reviewer.png)
 
 ### 🔹 Reviewer Actions
-- Reviewer approved PR → ![PR Approved](images/pr_approved.png)  
+- Reviewer approved PR → ![Approved PR](images/approved_pr_.png)  
 - Requested changes → ![PR Request Changes](images/pr_request_changes.png)  
+- Request changes (email notification) → ![Request Changes Gmail](images/request_changes_pr_gmail_2.png)  
 - Optional rejection simulated → ![PR Rejected](images/pr_rejected.png)  
 - Updated with new commits → ![PR Updated with Commits](images/pr_updated_with_commits.png)
 
@@ -82,20 +95,25 @@
 ---
 
 ## 👭 Bonus Task: Simulated Team Collaboration
-![Bonus Collab Merge](images/bonus_collab_merge.png)
+![Collab Branch](images/collab_branch.png)
+![Collab Branch 1](images/collab_branch1.png)
+![Collab Branch 2](images/collab_branch2.png)
+![Collab Commit](images/collab_commit.png)
+![Collab Merge](images/collab_merge.png)
+![Final Merge](images/final_merge.png)
 
 ---
 
 ## 🧾 Exam Evaluation Questions
 
 ### ✅ Q1 – Advanced Branching & Merge Verification
-![Q1 – Git Log](images/q1_git_log.png)
+![Q1 – Advanced Branching & Merge Verification](images/Q1_Advanced Branching & Merge Verification.png)
 
 ### ✅ Q2 – Multi-Stage Workflow Simulation
-![Q2 – Multi-Stage Workflow](images/q2_multi_stage_workflow.png)
+![Q2 – Multi-Stage Workflow Simulation](images/Q2_Multi-Stage Workflow Simulation.png)
 
 ### ✅ Q3 – Collaboration & Conflict Resolution
-![Q3 – Conflict Resolution](images/q3_conflict_resolution.png)
+![Q3 – Collaboration & Conflict Resolution](images/Q3_Collaboration & Conflict Resolution.png)
 
 ---
 
