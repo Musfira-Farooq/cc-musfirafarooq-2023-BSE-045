@@ -107,14 +107,13 @@
 ## 🧾 Exam Evaluation Questions
 
 ### ✅ Q1 – Advanced Branching & Merge Verification
-![Q1 – Advanced Branching & Merge Verification](images/Q1_Advanced Branching & Merge Verification.png)
+![Q1 – Git Log](images/Q1_Advanced_Branching_and_Merge_Verification.png)
 
 ### ✅ Q2 – Multi-Stage Workflow Simulation
-![Q2 – Multi-Stage Workflow Simulation](images/Q2_Multi-Stage Workflow Simulation.png)
+![Q2 – Multi-Stage Workflow](images/Q2_Multi-Stage_Workflow_Simulation.png)
 
 ### ✅ Q3 – Collaboration & Conflict Resolution
-![Q3 – Collaboration & Conflict Resolution](images/Q3_Collaboration & Conflict Resolution.png)
+![Q3 – Conflict Resolution](images/Q3_Collaboration_and_Conflict_Resolution.png)
 
----
 
 ### 🏷️ End of File
