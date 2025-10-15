@@ -6,6 +6,9 @@ This line was added locally (conflict test).
 
 This line was added remotely from GitHub (conflict test).
 
+This line was added remotely from GitHub. (second)
+
+
 
 
 
