@@ -3,7 +3,7 @@
 
 ---
 
-### 🏫 Section 
+### 🏫 Section
 BSE (V-B)
 
 ### 👩‍🎓 Submitted By
@@ -49,7 +49,7 @@ BSE (V-B)
 ![Local conflicting change edited in VS Code](lab3/local_conflict_edit_task2(2).png)
 
 **Local conflicting change committed**  
-![Local conflicting change committed](lab3/local_conflict_commit_task2(3.png)
+![Local conflicting change committed](lab3/local_conflict_commit_task2(3).png)
 
 **Push rejected due to conflict**  
 ![Push rejected due to conflict](lab3/conflict_push_error_task2(4).png)
@@ -230,6 +230,7 @@ BSE (V-B)
 **New repository created inside Gitea**  
 ![New repository created in Gitea](lab3/gitea_new_repo_task10(7).png)
 
+---
 
 ## 🌐 Task 11: Creating a GitHub Pages Portfolio Site
 
@@ -338,5 +339,4 @@ BSE (V-B)
 
 ---
 
-📂 **GitHub Repository:**
-[https://github.com/Musfira-Farooq/git-conflict-demo.git](https://github.com/Musfira-Farooq/git-conflict-demo.git)
+📂 **GitHub Repository:** [https://github.com/Musfira-Farooq/git-conflict-demo.git](https://github.com/Musfira-Farooq/git-conflict-demo.git)
