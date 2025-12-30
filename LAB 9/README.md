@@ -1,9 +1,15 @@
-# 🧪 Lab 9 – Codespaces + AWS: GH CLI, AWS CLI, EC2, IAM, Security Groups, Filters & Queries
+### CLOUD COMPUITNG ###
+# 🧪 Lab 9 – 
+Codespaces + AWS: GH CLI, AWS CLI, EC2, IAM, Security Groups, Filters & Queries
 
 **Name:** MUSFIRA FAROOQ
+
 **Roll Number:** 2023-BSE-045
+
 **Date:** 31 DEC 2025
+
 **Instructor:** Sir Shoaib
+
 ---
 
 ## Task 1 — GitHub CLI, Codespace setup and authentication
