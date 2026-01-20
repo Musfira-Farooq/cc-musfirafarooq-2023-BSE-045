@@ -1,0 +1,8 @@
+terraform.tfstate
+*.tfplan
+.terraform/
+id_ed25519
+*.pem
+*.key.terraform/
+*.zip
+*.tfstate
