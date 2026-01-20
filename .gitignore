@@ -3,4 +3,6 @@ terraform.tfstate
 .terraform/
 id_ed25519
 *.pem
-*.key
+*.key.terraform/
+*.zip
+*.tfstate
